@@ -11,6 +11,8 @@
 - B6226718_TB-D26 Thingboard
 - B6226718_TB-D3 Thingboard
 - B6226718_TB-D46 Thingboard  
+- B6226718-W6-D16 Raspi+Python
+- B6226718-W6-D26 Raspi+Node-Red
 
   
 
