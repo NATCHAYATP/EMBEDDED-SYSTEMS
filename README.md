@@ -14,6 +14,7 @@
 - B6226718-W6-D16 Raspi+Python
 - B6226718-W6-D26 Raspi+Node-Red
 - รวมD3D4B6226718 Raspi+Node-Red+Line
+- B6226718-MV jupyter notebook, Machine Vision
 
   
 
