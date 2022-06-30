@@ -15,6 +15,8 @@
 - B6226718-W6-D26 Raspi+Node-Red
 - รวมD3D4B6226718 Raspi+Node-Red+Line
 - B6226718-MV jupyter notebook, Machine Vision
+- M2M-D12-D2 Arduino+Modbus
+- M2M-D32-D4 Modbus
 
   
 
